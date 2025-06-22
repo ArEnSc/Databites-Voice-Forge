@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/project/', // Replace 'project' with your repository name
+  base: '/Databites-Voice-Forge/', // Replace 'project' with your repository name
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
